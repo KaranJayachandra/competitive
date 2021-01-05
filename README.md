@@ -5,4 +5,4 @@ Solutions to competitive programming questions that I have solved across differe
 |Language|Index|
 |:-:|:-:|
 |C++|[Link](/c++/index.md)|
-|Python|[Link](/oython/index.md)|
+|Python|[Link](/python/index.md)|
