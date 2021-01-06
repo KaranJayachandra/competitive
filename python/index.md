@@ -13,3 +13,4 @@ NOTE: The code is not commented as this is purely an exercise for me.
 |:--|:--:|:--:|:--:|:--:|:--:|
 |Seating Arrangment|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/seating-arrangement-1/description/)|[Link](seatingarrangement.md)|[Link](seatingarrangement.py)|2021-01-05|
 |Anagrams|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/anagrams-651/description/)|[Link](anagrams.md)|[Link](anagrams.py)|2021-01-06|
+|Roy and Profile Picture|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/roy-and-profile-picture/description/)|[Link](royprofile.md)|[Link](royprofile.py)|2021-01-06|
