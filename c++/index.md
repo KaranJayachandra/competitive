@@ -22,6 +22,6 @@ NOTE: The code is not commented as this is purely an exercise for me.
 
 For those who aren't familiar with coding I have written small code examples to help understand the basics.
 
-!Sl.No.|Topic|Link|
+|Order|Topic|Link|
 |--:|:-:|:-:|
 |1|Input/Output|[Link](tutorial1.md)
