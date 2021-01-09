@@ -18,9 +18,10 @@ NOTE: The code is not commented as this is purely an exercise for me.
 |Toggle String|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/modify-the-string/submissions/)|[Link](togglestring.md)|[Link](togglestring.cpp)|2021-01-06|
 |Palindromic String|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/palindrome-check-2/submissions/)|[Link](palindromicstring.md)|[Link](palindromicstring.cpp)|2021-01-06|
 |Magic Word|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/magical-word/)|[Link](magicword.md)|[Link](magicword.cpp)|2021-01-07|
+|Count Divisors|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/count-divisors/description/)|[Link](countdivisors.md)|[Link](countdivisors.cpp)|2021-01-09|
 
 For those who aren't familiar with coding I have written small code examples to help understand the basics.
 
-|Topic|Link|
-|:--:|:--:|
-|Input/Output|[Link](tutorial1.md)
+!Sl.No.|Topic|Link|
+|--:|:-:|:-:|
+|1|Input/Output|[Link](tutorial1.md)
