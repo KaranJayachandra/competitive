@@ -38,4 +38,4 @@ The above lines provide the output of the basic operations. This math operations
 ```
 }
 ```
-Using the below line, we just end the main block and the program terminates when it reaches this point.
+Using the below line, we just end the main block and the program terminates when it reaches this point. The basic code example and come googling would help most people understand the basics of Input/Output operations using any programming language. The commands can change but the princples remain the same. Declare variable, take user input and store them, perform operations and finally provide the user output.
