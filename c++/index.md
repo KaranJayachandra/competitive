@@ -20,6 +20,7 @@ NOTE: The code is not commented as this is purely an exercise for me.
 |Magic Word|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/magical-word/)|[Link](magicword.md)|[Link](magicword.cpp)|2021-01-07|
 |Count Divisors|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/count-divisors/description/)|[Link](countdivisors.md)|[Link](countdivisors.cpp)|2021-01-09|
 |Divisible|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/divisibe-or-2d8e196a/description/)|[Link](divisible.md)|[Link](divisible.cpp)|2021-01-10|
+|Lift Queries|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/lift-queries/description/)|[Link](liftqueries.md)|[Link](liftqueries.cpp)|2021-01-10|
 
 For those who aren't familiar with coding I have written small code examples to help understand the basics.
 
