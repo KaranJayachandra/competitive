@@ -26,4 +26,5 @@ For those who aren't familiar with coding I have written small code examples to 
 
 |Order|Topic|Link|
 |--:|:-:|:-:|
-|1|Input/Output|[Link](tutorial1.md)
+|1|Input/Output|[Link](tutorial1.md)|
+|1|Conditional Statements|[Link](tutorial2.md)|
