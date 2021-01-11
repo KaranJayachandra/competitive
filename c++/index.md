@@ -5,6 +5,8 @@ C++ was designed with a bias toward system programming and embedded, resource-co
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/C%2B%2B)
 
+To set up your own coding environment please have a look at the help page for [VS Code](https://code.visualstudio.com/docs/languages/cpp).
+
 In the following table you will have links to the original problem in the source platform. A short text from the question hosted on GitHub and also my solution to the problem. Please use the links to have a look at the questions or even run the programs to verify the results.
 
 NOTE: The code is not commented as this is purely an exercise for me.
@@ -22,9 +24,10 @@ NOTE: The code is not commented as this is purely an exercise for me.
 |Divisible|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/divisibe-or-2d8e196a/description/)|[Link](divisible.md)|[Link](divisible.cpp)|2021-01-10|
 |Lift Queries|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/lift-queries/description/)|[Link](liftqueries.md)|[Link](liftqueries.cpp)|2021-01-10|
 
-For those who aren't familiar with coding I have written small code examples to help understand the basics.
+For those who aren't familiar with coding I have written small code examples to help understand the basics. Please contact me if you would like a short primer on coding on any of my social media channels or by email which you can see on my profile.
 
 |Order|Topic|Link|
 |--:|:-:|:-:|
 |1|Input/Output|[Link](tutorial1.md)|
-|1|Conditional Statements|[Link](tutorial2.md)|
+|2|Conditionals|[Link](tutorial2.md)|
+|3|Loops|[Link](tutorial3.md)|

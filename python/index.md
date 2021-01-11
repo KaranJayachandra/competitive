@@ -5,6 +5,8 @@ Python is dynamically typed and garbage-collected. It supports multiple programm
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
 
+To set up your own coding environment please have a look at the help page for [VS Code](https://code.visualstudio.com/docs/languages/python).
+
 In the following table you will have links to the original problem in the source platform. A short text from the question hosted on GitHub and also my solution to the problem. Please use the links to have a look at the questions or even run the programs to verify the results.
 
 NOTE: The code is not commented as this is purely an exercise for me.
@@ -17,3 +19,4 @@ NOTE: The code is not commented as this is purely an exercise for me.
 |Find Product|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-product/description/)|[Link](findproduct.md)|[Link](findproduct.py)|2021-01-08|
 |Zoo|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/is-zoo-f6f309e7/description/)|[Link](zoo.md)|[Link](zoo.py)|2021-01-09|
 |VC Pairs|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/vc-pairs/description/)|[Link](vcpairs.md)|[Link](vcpairs.py)|2021-01-09|
+|Char Sum|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/char-sum-2d3a6ab5/description/)|[Link](charsum.md)|[Link](charsum.py)|2021-01-11|
