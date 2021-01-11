@@ -20,3 +20,4 @@ NOTE: The code is not commented as this is purely an exercise for me.
 |Zoo|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/is-zoo-f6f309e7/description/)|[Link](zoo.md)|[Link](zoo.py)|2021-01-09|
 |VC Pairs|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/vc-pairs/description/)|[Link](vcpairs.md)|[Link](vcpairs.py)|2021-01-09|
 |Char Sum|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/char-sum-2d3a6ab5/description/)|[Link](charsum.md)|[Link](charsum.py)|2021-01-11|
+|Duration|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/duration/description/|[Link](duration.md)|[Link](duration.py)|2021-01-11|
