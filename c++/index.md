@@ -31,3 +31,4 @@ For those who aren't familiar with coding I have written small code examples to 
 |1|Input/Output|[Link](tutorial1.md)|
 |2|Conditionals|[Link](tutorial2.md)|
 |3|Loops|[Link](tutorial3.md)|
+|4|Functions|[Link](tutorial4.md)|
