@@ -23,6 +23,7 @@ NOTE: The code is not commented as this is purely an exercise for me.
 |Count Divisors|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/count-divisors/description/)|[Link](countdivisors.md)|[Link](countdivisors.cpp)|2021-01-09|
 |Divisible|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/divisibe-or-2d8e196a/description/)|[Link](divisible.md)|[Link](divisible.cpp)|2021-01-10|
 |Lift Queries|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/lift-queries/description/)|[Link](liftqueries.md)|[Link](liftqueries.cpp)|2021-01-10|
+|Seven Segment Display|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/seven-segment-display-nov-easy-e7f87ce0/description/)|[Link](sevensegmentdisplay.md)|[Link](sevensegmentdisplay.cpp)|2021-01-13|
 
 For those who aren't familiar with coding I have written small code examples to help understand the basics. Please contact me if you would like a short primer on coding on any of my social media channels or by email which you can see on my profile.
 
