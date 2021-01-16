@@ -26,6 +26,8 @@ NOTE: The code is not commented as this is purely an exercise for me.
 |Seven Segment Display|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/seven-segment-display-nov-easy-e7f87ce0/description/)|[Link](sevensegmentdisplay.md)|[Link](sevensegmentdisplay.cpp)|2021-01-13|
 |E-Maze-In|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/e-maze-in-1aa4e2ac/description/)|[Link](emazein.md)|[Link](emazein.cpp)|2021-01-13|
 |Goki and his Breakup|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/tds-and-his-breakup/description/)|[Link](gokiandhisbreakup.md)|[Link](gokiandhisbreakup.cpp)|2021-01-14|
+|Back To School|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/back-to-school-1/description/)|[Link](backtoschool.md)|[Link](backtoschool.cpp)|2021-01-16|
+
 
 For those who aren't familiar with coding I have written small code examples to help understand the basics. Please contact me if you would like a short primer on coding on any of my social media channels or by email which you can see on my profile.
 
