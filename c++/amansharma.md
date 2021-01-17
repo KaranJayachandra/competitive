@@ -1,0 +1,3 @@
+On a distant planet far away from Earth lives a boy named Aman. He loves to run everyday. But his running distance is directly affected by how much horlicks his mother mixed in his milk today. If his mother has mixed x grams of horlicks, then Aman will be capable of running 100*x meters at most on that day.
+
+Aman's instructor, Mr.Sharma, is a very strict yet very caring.Everyday he asks Aman to run around a circle of radius r once. If Aman is able to complete the circle, he would get a toffee.
