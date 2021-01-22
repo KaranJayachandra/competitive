@@ -34,6 +34,7 @@ NOTE: The code is not commented as this is purely an exercise for me.
 |Ladderophilia|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/ladderophilia/submissions/)|[Link](ladderophilia.md)|[Link](ladderophilia.cpp)|2021-01-17|
 |A. Movement|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/a-movement-1/description/)|[Link](amovement.md)|[Link](amovement.cpp)|2021-01-17|
 |Doctor's Secret|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/doctors-secret/description/)|[Link](doctorssecret.md)|[Link](doctorssecret.cpp)|2021-01-18|
+|Play with Numbers|HackerEarth|[Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/play-with-numbers-2/description/)|[Link](playwithnumbers.md)|[Link](playwithnumbers.cpp)|2021-01-22|
 
 For those who aren't familiar with coding I have written small code examples to help understand the basics. Please contact me if you would like a short primer on coding on any of my social media channels or by email which you can see on my profile.
 
